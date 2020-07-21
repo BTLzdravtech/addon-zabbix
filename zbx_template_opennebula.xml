@@ -69,7 +69,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>one.collect[host]</key>
+                    <key>one.collect.host</key>
                     <delay>1m</delay>
                     <history>1w</history>
                     <trends>365d</trends>
